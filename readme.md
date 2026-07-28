@@ -12,8 +12,8 @@ A simple and handy overview of application shortcuts. Easy to use: just press `â
 ![category:productivity](https://img.shields.io/badge/category-productivity-blue.svg)
 ![license:bsd-3-clause-clear](https://img.shields.io/badge/license-BSD--3--Clause--Clear-orange.svg)
 
-[![github downloads](https://sergii.tatarenkov.name/keyclu/support/github-downloads.svg)](https://github.com/Anze/KeyCluCask/releases/latest)
-[![brew installs](https://sergii.tatarenkov.name/keyclu/support/brew-downloads.svg)](https://1formulae.brew.sh/cask/keyclu)
+[![github downloads](https://sergii.tatarenkov.name/keyclu/github-downloads.svg)](https://github.com/Anze/KeyCluCask/releases/latest)
+[![brew installs](https://sergii.tatarenkov.name/keyclu/brew-downloads.svg)](https://1formulae.brew.sh/cask/keyclu)
 [![crowdin](https://badges.crowdin.net/keyclu/localized.svg)](https://crowdin.com/project/keyclu)
 
 ## Screenshots
