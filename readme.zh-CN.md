@@ -12,8 +12,8 @@ KeyClu 是一个简单、顺手的应用快捷键总览工具。使用方式很�
 ![category:productivity](https://img.shields.io/badge/category-productivity-blue.svg)
 ![license:bsd-3-clause-clear](https://img.shields.io/badge/license-BSD--3--Clause--Clear-orange.svg)
 
-[![github downloads](https://sergii.tatarenkov.name/keyclu/support/github-downloads.svg)](https://github.com/Anze/KeyCluCask/releases/latest)
-[![brew installs](https://sergii.tatarenkov.name/keyclu/support/brew-downloads.svg)](https://formulae.brew.sh/cask/keyclu)
+[![github downloads](https://sergii.tatarenkov.name/apps/keyclu/github-downloads.svg)](https://github.com/Anze/KeyCluCask/releases/latest)
+[![brew installs](https://sergii.tatarenkov.name/apps/keyclu/brew-downloads.svg)](https://formulae.brew.sh/cask/keyclu)
 [![crowdin](https://badges.crowdin.net/keyclu/localized.svg)](https://crowdin.com/project/keyclu)
 
 ## 截图
