@@ -63,7 +63,7 @@ brew install --cask keyclu
 設定画面を開くには、アプリを再度起動してください。
 
 ### アプリがクラッシュしてしまいました！
-クラッシュが発生した場合は、課題を開き、詳細、関連するログ、およびクラッシュにつながった可能性のある操作の簡潔な説明をご提供ください。問題に必要な情報を収集するためのガイダンスとして、よくある質問のページ [FAQ - KeyClu がクラッシュする](https://github.com/Anze/KeyCluCask/wiki/FAQ#keyclu-just-crashed) をご確認ください。ご協力いただくことで、問題をより効果的に解決できるようになります。
+クラッシュが発生した場合は、issue ページを開き、詳細、関連するログやクラッシュにつながった可能性のある操作の簡単な説明をご提供ください。問題に必要な情報を収集するためのガイダンスとして、よくある質問のページ [FAQ - KeyClu just crashed](https://github.com/Anze/KeyCluCask/wiki/FAQ#keyclu-just-crashed) をご確認ください。ご協力いただけると、問題をより効果的に解決できるようになります。
 
 ## ロードマップ
 [KeyClu のプロジェクトボード ](https://github.com/users/Anze/projects/1)をごらんいただき、何が進行中なのかをご確認ください!
