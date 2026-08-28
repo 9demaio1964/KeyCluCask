@@ -41,7 +41,7 @@ brew install --cask keyclu
 * `⌘` キーを 1 回押して押し、そのままキーを長押しすると、現在のアプリのショートカットを表示します（代替）。
  
 ## 機能
-* 希望に合わせて表示を調整できます
+* 好みに合わせて表示を調整
 * 外観を `システム`、`ライト` そして `ダーク`に変更
 * ショートカットをブックマーク
 * 分かっているショートカットを非表示
@@ -53,17 +53,17 @@ brew install --cask keyclu
 * Jitouch2 ジェスチャを表示
 * 自分で定義したショートカットを表示
 
-## 機能
-* [CustomShortcuts](https://www.houdah.com/customShortcuts/) ショートカットカットをカスタマイズできます。
-* [skhd](https://github.com/koekeishiya/skhd) でショートカットを一覧表示できます。詳細は [skhd wiki ページ](https://github.com/Anze/KeyCluCask/wiki/Integrations-%E2%80%90-skhd) をご参照ください。
-* CLI パラメータ。詳細は [CLI param wiki ページ](https://github.com/Anze/KeyCluCask/wiki/Integrations-%E2%80%90-CLI-params) をご参照ください。
+## サードパーティ製アプリとの連携
+* [CustomShortcuts](https://www.houdah.com/customShortcuts/) ショートカットとカットをカスタマイズできます。
+* [skhd](https://github.com/koekeishiya/skhd) でショートカットを一覧表示できます。詳細は [skhd wiki ページ](https://github.com/Anze/KeyCluCask/wiki/Integrations-%E2%80%90-skhd) をごらんください。
+* CLI パラメータ。詳細は [CLI param wiki ページ](https://github.com/Anze/KeyCluCask/wiki/Integrations-%E2%80%90-CLI-params) をごらんください。
 
 ## よくある質問と解答
 ### アイコンが非表示の場合、設定を開くにはどうすればよいですか？
 設定画面を開くには、アプリを再度起動してください。
 
 ### アプリがクラッシュしてしまいました！
-クラッシュが発生した場合は、課題を開き、詳細、関連するログ、およびクラッシュにつながった可能性のある操作の簡潔な説明をご提供ください。問題に必要な情報を収集するためのガイダンスとして、よくある質問のページ [FAQ - KeyClu just crashed](https://github.com/Anze/KeyCluCask/wiki/FAQ#keyclu-just-crashed) をご確認ください。ご協力いただくことで、問題をより効果的に解決できるようになります。
+クラッシュが発生した場合は、課題を開き、詳細、関連するログ、およびクラッシュにつながった可能性のある操作の簡潔な説明をご提供ください。問題に必要な情報を収集するためのガイダンスとして、よくある質問のページ [FAQ - KeyClu がクラッシュする](https://github.com/Anze/KeyCluCask/wiki/FAQ#keyclu-just-crashed) をご確認ください。ご協力いただくことで、問題をより効果的に解決できるようになります。
 
 ## ロードマップ
 [KeyClu のプロジェクトボード ](https://github.com/users/Anze/projects/1)をごらんいただき、何が進行中なのかをご確認ください!
@@ -88,7 +88,7 @@ KeyClu は BSD-3-Clause-Clear ライセンスの下でリリースされてい�
 
 ## 謝辞
 * ご協力いただいた皆様に感謝いたします
-* 感谢 [@wanwindwalker](https://github.com/wanwindwalker) 従来のアプリアイコンをデザインしてくださった
+* 従来のアプリアイコンをデザインしてくださった [@wanwindwalker](https://github.com/wanwindwalker) 
 
 ## サポート
-もし KeyClu を❤️して、タスクに役立ったと感じたら、ぜひ ⭐ して、カフェインで応援してくださいね。
+もし KeyClu を気に入ってタスクに役立ったと感じたら、ぜひ ⭐ してカフェインで応援してくださいね。
