@@ -37,7 +37,7 @@ brew install --cask keyclu
 * `通知センター` へのアクセスは、優しい更新通知のために推奨されます。
 
 ## 基本的な使い方
-* `⌘` キーを 2 回押してそのままキーを長押しするとと現在のアプリのショートカットを表示します(既定値)。
+* `⌘` キーを 2 回押してそのままキーを長押しするとと現在のアプリのショートカットを表示します (既定値)。
 * `⌘` キーを 1 回押して押し、そのままキーを長押しすると、現在のアプリのショートカットを表示します（代替）。
  
 ## 機能
@@ -54,11 +54,11 @@ brew install --cask keyclu
 * 自分で定義したショートカットを表示
 
 ## 機能
-* [CustomShortcuts](https://www.houdah.com/customShortcuts/) ショートカットとカットをカスタマイズできます。
+* [CustomShortcuts](https://www.houdah.com/customShortcuts/) ショートカットカットをカスタマイズできます。
 * [skhd](https://github.com/koekeishiya/skhd) でショートカットを一覧表示できます。詳細は [skhd wiki ページ](https://github.com/Anze/KeyCluCask/wiki/Integrations-%E2%80%90-skhd) をご参照ください。
 * CLI パラメータ。詳細は [CLI param wiki ページ](https://github.com/Anze/KeyCluCask/wiki/Integrations-%E2%80%90-CLI-params) をご参照ください。
 
-## よくある質問
+## よくある質問と解答
 ### アイコンが非表示の場合、設定を開くにはどうすればよいですか？
 設定画面を開くには、アプリを再度起動してください。
 
