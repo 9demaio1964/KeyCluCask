@@ -1,4 +1,4 @@
-English | [简体中文](readme.zh-CN.md)
+English | [简体中文](readme.zh-CN.md) | [日本語](readme.ja-JP.md)
 
 <p align="center">
   <img src="https://github.com/Anze/KeyCluCask/blob/main/img/keyclu.png?raw=true" height="128" />
@@ -15,6 +15,7 @@ A simple and handy overview of application shortcuts. Easy to use: just press `�
 [![github downloads](https://sergii.tatarenkov.name/keyclu/github-downloads.svg)](https://github.com/Anze/KeyCluCask/releases/latest)
 [![brew installs](https://sergii.tatarenkov.name/keyclu/brew-downloads.svg)](https://1formulae.brew.sh/cask/keyclu)
 [![crowdin](https://badges.crowdin.net/keyclu/localized.svg)](https://crowdin.com/project/keyclu)
+[![keyclu website](https://img.shields.io/badge/website-KeyClu-337AFF)](https://sergii.tatarenkov.name/apps/keyclu/)
 
 ## Screenshots
 ![screenshot1](https://raw.githubusercontent.com/Anze/KeyCluCask/main/img/screenshot_1.png)
@@ -22,6 +23,8 @@ A simple and handy overview of application shortcuts. Easy to use: just press `�
 ![screenshot2](https://raw.githubusercontent.com/Anze/KeyCluCask/main/img/screenshot_2.png)
 
 ![screenshot3](https://raw.githubusercontent.com/Anze/KeyCluCask/main/img/screenshot_3.png)
+
+![screenshot4](https://raw.githubusercontent.com/Anze/KeyCluCask/main/img/screenshot_4.png)
 
 ## Installation
 ### Homebrew
@@ -84,6 +87,7 @@ This software uses the following open source packages:
 
 ## Translations
 Special thanks to the following contributors for their translation work:
+* ja-JP: [@9demaio1964](https://github.com/9demaio1964)
 * zh-CN: [@InTheManXG](https://github.com/InTheManXG)
 
 ## Thanks

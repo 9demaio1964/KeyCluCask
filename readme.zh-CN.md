@@ -1,4 +1,4 @@
-[English](readme.md) | 简体中文
+[English](readme.md) | 简体中文 | [日本語](readme.ja-JP.md)
 
 <p align="center">
   <img src="https://github.com/Anze/KeyCluCask/blob/main/img/keyclu.png?raw=true" height="128" />
@@ -15,6 +15,7 @@ KeyClu 是一个简单、顺手的应用快捷键总览工具。使用方式很�
 [![github downloads](https://sergii.tatarenkov.name/apps/keyclu/github-downloads.svg)](https://github.com/Anze/KeyCluCask/releases/latest)
 [![brew installs](https://sergii.tatarenkov.name/apps/keyclu/brew-downloads.svg)](https://formulae.brew.sh/cask/keyclu)
 [![crowdin](https://badges.crowdin.net/keyclu/localized.svg)](https://crowdin.com/project/keyclu)
+[![keyclu website](https://img.shields.io/badge/website-KeyClu-337AFF)](https://sergii.tatarenkov.name/apps/keyclu/)
 
 ## 截图
 ![screenshot1](https://raw.githubusercontent.com/Anze/KeyCluCask/main/img/screenshot_1.png)
@@ -22,6 +23,8 @@ KeyClu 是一个简单、顺手的应用快捷键总览工具。使用方式很�
 ![screenshot2](https://raw.githubusercontent.com/Anze/KeyCluCask/main/img/screenshot_2.png)
 
 ![screenshot3](https://raw.githubusercontent.com/Anze/KeyCluCask/main/img/screenshot_3.png)
+
+![screenshot4](https://raw.githubusercontent.com/Anze/KeyCluCask/main/img/screenshot_4.png)
 
 ## 安装
 ### Homebrew
@@ -84,6 +87,7 @@ KeyClu 基于 BSD-3-Clause-Clear 许可证发布。详情请查看 [LICENSE](LIC
 
 ## 翻译
 感谢为本项目翻译做出贡献的贡献者：
+* ja-JP: [@9demaio1964](https://github.com/9demaio1964)
 * zh-CN: [@InTheManXG](https://github.com/InTheManXG)
 
 ## 感谢

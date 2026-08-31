@@ -1,3 +1,19 @@
+v0.33
+- fixed database access prompt on launch on macOS 15+ (will still appear one last time)
+- improved performance
+- improved UI to be on pair for macOS versions
+- added Japanese localization #157
+
+v0.32
+- fixed small UI issues
+- fixed typos #151
+- fixed toggle-panel failed to display My Shortcuts #141
+- added possibility to display  menu items (Settings → Appearance → Visibility)
+- added possibility to limit activation hotkey to sides: left, right, either (Settings → General → Activation)
+- added support for multiple languages #119 #153
+- added possibility to display macOS gestures #140
+- added Jitouch integration to display gestures
+
 v0.31
 - improved indication of whether a menu group is folded or unfolded (partial solution for hiding functionality for #124)
 - improved app focus handling #82

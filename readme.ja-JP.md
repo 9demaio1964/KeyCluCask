@@ -1,4 +1,4 @@
-[English](readme.md) | 日本語
+[English](readme.md) | [简体中文](readme.zh-CN.md) | 日本語
 
 <p align="center">
   <img src="https://github.com/Anze/KeyCluCask/blob/main/img/keyclu.png?raw=true" height="128" />
@@ -15,6 +15,7 @@
 [![github downloads](https://sergii.tatarenkov.name/apps/keyclu/github-downloads.svg)](https://github.com/Anze/KeyCluCask/releases/latest)
 [![brew installs](https://sergii.tatarenkov.name/apps/keyclu/brew-downloads.svg)](https://formulae.brew.sh/cask/keyclu)
 [![crowdin](https://badges.crowdin.net/keyclu/localized.svg)](https://crowdin.com/project/keyclu)
+[![keyclu website](https://img.shields.io/badge/website-KeyClu-337AFF)](https://sergii.tatarenkov.name/apps/keyclu/)
 
 ## スクリーンショット
 ![screenshot1](https://raw.githubusercontent.com/Anze/KeyCluCask/main/img/screenshot_1.png)
@@ -22,6 +23,8 @@
 ![screenshot2](https://raw.githubusercontent.com/Anze/KeyCluCask/main/img/screenshot_2.png)
 
 ![screenshot3](https://raw.githubusercontent.com/Anze/KeyCluCask/main/img/screenshot_3.png)
+
+![screenshot4](https://raw.githubusercontent.com/Anze/KeyCluCask/main/img/screenshot_4.png)
 
 ## インストール方法
 ### Homebrew
@@ -39,7 +42,7 @@ brew install --cask keyclu
 ## 基本的な使い方
 * `⌘` キーを 2 回押し、2 回目を押したままにすると、現在のアプリのショートカットを表示します (標準の操作)。
 * `⌘` キーを 1 回押したままにして、現在のアプリのショートカットを表示することもできます。
- 
+
 ## 機能
 * 好みに合わせて表示を調整
 * 外観を `システム`、`ライト` そして `ダーク`に変更
@@ -85,10 +88,11 @@ KeyClu は BSD-3-Clause-Clear ライセンスの下でリリースされてい�
 ## 翻訳
 翻訳にご協力いただいた方々に感謝いたします。
 * ja-JP: [@9demaio1964](https://github.com/9demaio1964)
+* zh-CN: [@InTheManXG](https://github.com/InTheManXG)
 
 ## 謝辞
 * ご協力いただいた皆様に感謝いたします
-* 従来のアプリアイコン [@wanwindwalker](https://github.com/wanwindwalker) 
+* 従来のアプリアイコン [@wanwindwalker](https://github.com/wanwindwalker)
 
 ## サポート
 もし KeyClu を気に入ってお役に立ったと感じたら、ぜひ⭐を付けて、コーヒーで応援してください。
