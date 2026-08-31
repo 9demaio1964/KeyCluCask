@@ -6,7 +6,7 @@
 KeyClu (the Application) is an application for productivity purposes. All rights to the Application belong to its developer, Sergii Tatarenkov (the Developer).
 
 ## License Terms
-KeyClu is released under the BSD-3-Clause-Clear license. See https://sergii.tatarenkov.name/apps/keyclu/license.txt for details.
+KeyClu is released under the BSD-3-Clause-Clear license. See [LICENSE](LICENSE) for details.
 
 ## User Data
 The Application stores local usage data on your device - specifically, a count of how many times each shortcut is selected by clicking rather than typing. This count stays on your device and is never sent anywhere. The database file is stored openly on your device and can be freely read, edited, or deleted by you at any time.
@@ -24,7 +24,7 @@ The Application makes no network connections except to check whether a newer ver
 
 ## Changes to This Policy
 
-This `PRIVACY.md` file may be updated from time to time. Any changes will be committed directly to this repository and reflected in the updated Effective Date at the top of the file.
+This file may be updated from time to time. Any changes will be committed directly to this repository and reflected in the updated Effective Date at the top of the file.
 
 ## Warranty
 The Developer provides no warranty and is not responsible for any losses or damages related to the Application's use. You use the Application at your own risk.
